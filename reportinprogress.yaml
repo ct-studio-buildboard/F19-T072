@@ -2,9 +2,8 @@ company: Weill Cornell New York Presbyterian Hospital
   name: Weill Transformers
   logo: Company_logo.jpg
 product_hmw: How might we transform medical knowledge delivery?
-product_narrative: |
-  Cornell Tech students build some amazing things. But it is often hard to show it to outside people.
-  With BuildBoard, we let students provide regular updates about their work and create a Web version of it.
+product_narrative:
+Healthcare is in the midst of a profound transformation fueled by our current technological revolution, but it still depends  on the highly trained clinicians who deliver that healthcare.  In an era of accelerating and disruptive change, how successful we are at transforming our entire healthcare delivery system will therefore depend, in part, on how successful we are at building new learning delivery systems.
 team:
   picture: 
   roster:
@@ -13,21 +12,21 @@ team:
     picture: 
     program: MBA
   - name: Zach Gittelman
-    email: 
+    email: zhg5@cornell.edu
     picture: 
     program: HT
   - name: Alex Popeil
-    email: 
+    email: amp453@cornell.edu
     picture: 
     program: CS
   - name: Catherine Wang
-    email: 
+    email: dw593@cornell.edu
     picture: 
     program: ORIE
   - name: Jenny Yi
-    email: 
+    email: yy623@cornell.edu
     picture: 
     program: AAP 
 assets:
   title: Sprint 1
-  url: 
+  url: https://github.com/ct-studio-buildboard/F19-T072/blob/master/Sprint_1.pdf

@@ -2,10 +2,13 @@ company: Weill Cornell New York Presbyterian Hospital
   name: Weill Transformers
   logo: 
 product_hmw: How might we transform medical knowledge delivery?
+product_narrative: |
+  Cornell Tech students build some amazing things. But it is often hard to show it to outside people.
+  With BuildBoard, we let students provide regular updates about their work and create a Web version of it.
 team:
   picture: 
   roster:
-  - name: Rachel Sobel
+  - name: R
     email: rachel.sobel.cornell@gmail.com
     picture: rachel.jpg
     program: LLM

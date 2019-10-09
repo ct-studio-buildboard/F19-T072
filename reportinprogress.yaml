@@ -9,13 +9,25 @@ team:
   picture: 
   roster:
   - name: Michael Chan
-    email: mkc233@cornell.ediu
+    email: mkc233@cornell.edu
     picture: 
     program: MBA
-  - name: Arnaud Sahuguet
-    email: arnaud.sahuguet@cornell.edu
-    picture: arnaud.png
-    program: MBA
+  - name: Zach Gittelman
+    email: 
+    picture: 
+    program: HT
+  - name: Alex Popeil
+    email: 
+    picture: 
+    program: CS
+  - name: Catherine Wang
+    email: 
+    picture: 
+    program: ORIE
+  - name: Jenny Yi
+    email: 
+    picture: 
+    program: AAP 
 assets:
   title: Sprint 1
-  url: https://tech.cornell.edu/
+  url: 

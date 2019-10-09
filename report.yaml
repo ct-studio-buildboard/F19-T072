@@ -1,1 +1,18 @@
-
+company: Weill Cornell New York Presbyterian Hospital
+  name: Weill Transformers
+  logo: 
+product_hmw: How might we transform medical knowledge delivery?
+team:
+  picture: 
+  roster:
+  - name: Rachel Sobel
+    email: rachel.sobel.cornell@gmail.com
+    picture: rachel.jpg
+    program: LLM
+  - name: Arnaud Sahuguet
+    email: arnaud.sahuguet@cornell.edu
+    picture: arnaud.png
+    program: MBA
+assets:
+  title: Sprint 1
+  url: https://tech.cornell.edu/

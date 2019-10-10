@@ -1,7 +1,4 @@
---- 
-assets: 
-  title: "Sprint 1"
-  url: "https://github.com/ct-studio-buildboard/F19-T072/blob/master/Sprint_1.pdf"
+
 company: "Weill Cornell New York Presbyterian Hospital"
 logo: Company_logo.jpg
 name: "Weill Transformers"
@@ -35,3 +32,6 @@ team:
       name: "Jenny Yi"
       picture: JENNY.YI.jpg
       program: AAP
+assets: 
+  title: "Sprint 1"
+  url: "https://github.com/ct-studio-buildboard/F19-T072/blob/master/Sprint_1.pdf"

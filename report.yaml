@@ -9,7 +9,7 @@ team:
     - 
       email: mkc233@cornell.edu
       name: "Michael Chan"
-      picture: Michael_Chan.jpg
+      picture: images/Michael_Chan.jpg
       program: MBA
     - 
       email: zhg5@cornell.edu
@@ -24,12 +24,12 @@ team:
     - 
       email: dw593@cornell.edu
       name: "Catherine Wang"
-      picture: Catherine_Wang.jpg
+      picture: images/Catherine_Wang.jpg
       program: ORIE
     - 
       email: yy623@cornell.edu
       name: "Jenny Yi"
-      picture: JENNY.YI.jpg
+      picture: images/Jenny_Yi.jpg
       program: AAP
 assets: 
   title: "Sprint 1"

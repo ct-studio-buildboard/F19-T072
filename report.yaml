@@ -32,5 +32,5 @@ team:
       picture: images/Jenny_Yi.png
       program: AAP
 assets: 
-  title: Sprint 1
-  url: https://github.com/ct-studio-buildboard/F19-T072/blob/master/Sprints/Sprint_1.pdf
+  - title: Sprint 1
+  - url: https://github.com/ct-studio-buildboard/F19-T072/blob/master/Sprints/Sprint_1.pdf

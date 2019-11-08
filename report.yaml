@@ -2,35 +2,33 @@ company: Weill Cornell New York Presbyterian Hospital
   name: Weill Transformers
   logo: images/Company_logo.jpg
 product_hmw: How might we transform medical knowledge delivery?
-product_narrative: Healthcare is in the midst of a profound transformation fueled by our current technological revolution, but it still depends  on the highly trained clinicians who deliver that healthcare.  In an era of accelerating and disruptive change, how successful we are at transforming our entire healthcare delivery system will therefore depend, in part, on how successful we are at building new learning delivery systems.
-team: 
+product_narrative: |
+  Healthcare is in the midst of a profound transformation fueled by our current technological revolution, but it still depends  on the highly trained clinicians who deliver that healthcare.  In an era of accelerating and disruptive change, how successful we are at transforming our entire healthcare delivery system will therefore depend, in part, on how successful we are at building new learning delivery systems.
+team:
   picture: images/Team_Photo.jpeg
-  roster: 
-    - 
-      email: mkc233@cornell.edu
-      name: Michael Chan
-      picture: images/Michael_Chan.jpg
-      program: MBA
-    - 
-      email: zhg5@cornell.edu
-      name: Zach Gittelman
-      picture: images/Zachary_Gittelman.jpg
-      program: HT
-    - 
-      email: amp453@cornell.edu
-      name: Alex Popeil
-      picture: images/Alexander_Popeil.jpg
-      program: CS
-    - 
-      email: dw593@cornell.edu
-      name: Catherine Wang
-      picture: images/Catherine_Wang.jpg
-      program: ORIE
-    - 
-      email: yy623@cornell.edu
-      name: Jenny Yi
-      picture: images/Jenny_Yi.png
-      program: AAP
-assets: 
-  - title: Sprint 1
-  - url: https://github.com/ct-studio-buildboard/F19-T072/blob/master/Sprints/Sprint_1.pdf
+  roster:
+  - name: Michael Chan
+    email: mkc233@cornell.edu
+    picture: images/Michael_Chan.jpg
+    program: MBA
+  - name: Zach Gittelman
+    email: zhg5@cornell.edu
+    picture: images/Zachary_Gittelman.jpg
+    program: HT
+  - name: Alex Popeil
+    email: amp453@cornell.edu
+    picture: images/Alexander_Popeil.jpg
+    program: CS
+  - name: Catherine Wang
+    email: dw593@cornell.edu
+    picture: images/Catherine_Wang.jpg
+    program: ORIE
+  - name: Jenny Yi
+    email: yy623@cornell.edu
+    picture: images/Jenny_Yi.png
+    program: AAP
+assets:
+- title: Sprint 1
+  url:  https://github.com/ct-studio-buildboard/F19-T072/blob/master/Sprints/Sprint_1.pdf
+- title: Sprint 2
+  url: 

@@ -2,7 +2,7 @@ company: Weill Cornell New York Presbyterian Hospital
   name: Weill Transformers
   logo: images/Company_logo.jpg
 product_hmw: How might we transform medical knowledge delivery?
-product_narrative: |
+product_narrative:
   Healthcare is in the midst of a profound transformation fueled by our current technological revolution, but it still depends  on the highly trained clinicians who deliver that healthcare.  In an era of accelerating and disruptive change, how successful we are at transforming our entire healthcare delivery system will therefore depend, in part, on how successful we are at building new learning delivery systems.
 team:
   picture: images/Team_Photo.jpeg

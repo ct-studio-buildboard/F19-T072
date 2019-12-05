@@ -1,5 +1,1 @@
-Incorrect yaml format for report.yaml: mapping values are not allowed here
-  in "<byte string>", line 2, column 7:
-      name: Weill Transformers
-          ^.
-Unable to fetch assets for F19-T072.
+Assets we could fetch: ['report.yaml', 'images/Company_logo.jpg', 'images/Team_Photo.jpeg', 'images/Michael_Chan.jpg', 'images/Zachary_Gittelman.jpg', 'images/Alexander_Popeil.jpg', 'images/Catherine_Wang.jpg', 'images/Jenny_Yi.jpg']
